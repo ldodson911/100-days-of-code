@@ -9,3 +9,13 @@
 ### Day 2: January 15, 2017
 
 **Today's Progress**: Continue working on wordpress child theme, using $wp_query parameters to customize what is displayed
+
+### Day 3: January 16, 2017
+
+**Today's Progress**: Learned about register_post_type to create a custom post type.  I was then able to use my custom post type to create a custom page styled to my pseudo client's specifications.  Then moved on to custom fields by installing ACF.
+
+**Thoughts:  I was in a big of hell for about an hour after installing ACF and adding the group fields, after editing the page I created with my custom post type, then adding the custom fields and refreshed, I was picking a php template file from the parent theme! Not sure how Wordpress knew to do that, that's a lesson for another day I guess.  After troubleshooting for an hour and pulling my hair out, a simple refresh of those pesky permalinks solved the problem.  Even though I had never changed the permalink and had been working in that custom post all along, for some reason the refresh that I did after adding the custom fields seemed to break the permalink.  My browser kept saying 'Page Not Found', but was displaying a page, just not the one I was expecting!
+
+### Day 4: January 17, 2017
+
+**Today's Progress** Continue working with ACF.  Need to get my custom fields to display on my custom post type!
