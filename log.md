@@ -19,3 +19,9 @@
 ### Day 4: January 17, 2017
 
 **Today's Progress** Continue working with ACF.  Need to get my custom fields to display on my custom post type!
+
+### Day 5: January 19, 2017
+
+**Today's Progress** Not sure it's progress, but updating my Git repos and staging deployments.  Must remember to push often!
+
+**Thoughts:** I missed a day, graduate classes started yesterday and spent my day tracking down books and doing other work related tasks.  Only getting in about an hour or 2 day of coding, but I think if I can dedicate that much time at least, I should still be good, my 100 days of code just may need to be extended longer to learn all that I want to learn. 
