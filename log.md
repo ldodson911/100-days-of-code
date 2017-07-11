@@ -31,3 +31,7 @@
 **Today's Thoughts** Today's not really Day 6, but I'm logging it as such.  I've been coding quite a bit between the last post and today but not logging it like I should. So I will pick up this challenge from this day forward.  I've been doing some type of coding work almost every day, whether it's googling or reading about code to learn more, practicing tutorials or working on sample projects for my portfolio.  
 
 **Today's Progress** Working with PHP functions and Wordpress template tags
+
+### Day 7: July 11, 2017
+
+***Today's Progress** Working on create a custom Wordpress theme from scratch
