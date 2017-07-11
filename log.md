@@ -25,3 +25,9 @@
 **Today's Progress** Not sure it's progress, but updating my Git repos and staging deployments.  Must remember to push often!
 
 **Thoughts:** I missed a day, graduate classes started yesterday and spent my day tracking down books and doing other work related tasks.  Only getting in about an hour or 2 day of coding, but I think if I can dedicate that much time at least, I should still be good, my 100 days of code just may need to be extended longer to learn all that I want to learn. 
+
+### Day 6: July 10, 2017
+
+**Today's Thoughts** Today's not really Day 6, but I'm logging it as such.  I've been coding quite a bit between the last post and today but not logging it like I should. So I will pick up this challenge from this day forward.  I've been doing some type of coding work almost every day, whether it's googling or reading about code to learn more, practicing tutorials or working on sample projects for my portfolio.  
+
+**Today's Progress** Working with PHP functions and Wordpress template tags
