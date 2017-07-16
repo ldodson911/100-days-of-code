@@ -35,3 +35,19 @@
 ### Day 7: July 11, 2017
 
 ***Today's Progress** Working on create a custom Wordpress theme from scratch
+
+### Day 8: July 12, 2017
+
+**Today's Progress** Playing around with wordpress php templates
+
+### Day 9: July 13, 2017
+
+**Todays Progress** CSS refresher because CSS you are not my friend!
+
+### Day 10: July 14, 2017
+
+***Today's Progress** Not sure I would classify today as progress, trying to get caught back up to speed on Skillcrush FED blueprint so I can get through the RWD portions and move on to javascript
+
+### Day 11: July 15, 2017
+
+***Today's Progress** Working through RWD with @skillcrush FED blueprint
