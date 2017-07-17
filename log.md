@@ -51,3 +51,7 @@
 ### Day 11: July 15, 2017
 
 ***Today's Progress** Working through RWD with @skillcrush FED blueprint
+
+### Day 12: July 16, 2017
+
+**Today's Progress** First time using media queries successfully. The concept of how to use them finally clicked in my brain!
