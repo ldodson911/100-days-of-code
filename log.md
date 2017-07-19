@@ -55,3 +55,11 @@
 ### Day 12: July 16, 2017
 
 **Today's Progress** First time using media queries successfully. The concept of how to use them finally clicked in my brain!
+
+### Day 13: July 18, 2017
+
+**Today's Progress** Working on RWD class for SkillCrush. Once completed I can move on to Javascript class so that I can complete the FED blueprint! 
+
+### Day 14: July 19, 2017
+
+**Today's Progress** Still working on responsive web developement, creating a new sample site from scratch from psd files.  
