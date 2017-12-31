@@ -70,4 +70,4 @@
 
 ### Day 16: December 30, 3017
 
-**Today's Progress** Day 2 of 30 Days 30 Sites. Created a single-page website for a sample wedding invitation site using parallax feature to scroll site content over a background image.  HTML & CSS. 
+**Today's Progress** Day 2 of 30 Days 30 Sites. Created a single-page website for a sample wedding invitation site using parallax feature to scroll site content over a background image.  HTML & CSS.  Also added a countdown timer on my personal portfolio page that I am working on. 
