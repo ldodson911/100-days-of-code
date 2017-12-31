@@ -63,3 +63,11 @@
 ### Day 14: July 19, 2017
 
 **Today's Progress** Still working on responsive web developement, creating a new sample site from scratch from psd files.  
+
+### Day 15: December 29, 2017
+
+**Today's Progress** Back in the saddle after a busy graduate schedule.  Completed Day 1 of 30 Days 30 Sites. 
+
+### Day 16: December 30, 3017
+
+**Today's Progress** Day 2 of 30 Days 30 Sites. Created a single-page website for a sample wedding invitation site using parallax feature to scroll site content over a background image.  HTML & CSS. 
