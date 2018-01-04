@@ -72,6 +72,10 @@
 
 **Today's Progress** Day 2 of 30 Days 30 Sites. Created a single-page website for a sample wedding invitation site using parallax feature to scroll site content over a background image.  HTML & CSS.  Also added a countdown timer on my personal portfolio page that I am working on. 
 
-### Day 17: Jan 1, 2017
+### Day 17: Jan 1, 2018
 
 **Today's Progress** Completed Udemy course 'HTTP to HTTPS' to learn how to install a free SSL on my webserver, identify all non-secured content and fix a site. 
+
+## Day 18 & 19: Jan 2 - 3, 2018
+
+**Today's Progress** Working my way through a Udemy course on CSS.  Excellent so far..light bulb finally turning on to some of this stuff.  
