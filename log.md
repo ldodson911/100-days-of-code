@@ -79,3 +79,7 @@
 ## Day 18 & 19: Jan 2 - 3, 2018
 
 **Today's Progress** Working my way through a Udemy course on CSS.  Excellent so far..light bulb finally turning on to some of this stuff.  
+
+## Day 20: Jan 4, 2018
+
+**Today's Progress** Completed the Udemy course on CSS.  Started a master course on CSS to learn different layouts for special projects. 
